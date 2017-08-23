@@ -29,6 +29,6 @@ Things you may want to cover:
 
 ###Features
 
--Real time chat engine for comments
--Blog
--Drag and deop interface
+- Real time chat engine for comments
+- Blog
+- Drag and deop interface
