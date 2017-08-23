@@ -22,3 +22,13 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# Devcamp Portfolio Application
+
+> This is a Ruby on Rials 5 application that allows users to create their own portfolio
+
+###Features
+
+-Real time chat engine for comments
+-Blog
+-Drag and deop interface
