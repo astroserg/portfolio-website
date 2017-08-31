@@ -52,3 +52,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #friendly url gem
 gem 'friendly_id', '~> 5.2', '>= 5.2.1'
+
+#devise for authentication
+gem 'devise', '~> 4.3'
