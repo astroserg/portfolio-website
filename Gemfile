@@ -56,6 +56,13 @@ gem 'friendly_id', '~> 5.2', '>= 5.2.1'
 #devise for authentication
 gem 'devise', '~> 4.3'
 
+#bootstrap styles
 gem 'bootstrap', '~> 4.0.0.beta'
+
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
+
+#custom gem
 gem 'serg_view_tool', '~> 0.1.1'
+
+#authorizarions gem
+gem 'petergate', '~> 1.7', '>= 1.7.5'
