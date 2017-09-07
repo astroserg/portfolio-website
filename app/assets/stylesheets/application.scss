@@ -160,15 +160,28 @@ body {
     width: 55rem;
   }
 }
+
 /*
- * Custom styles
+ * Custom Styles
  */
 
- .card-block {
-   color: black;
-   text-align: left;
- }
+.card-block {
+  color: black;
+  text-align: left;
+  padding: 20px;
+}
 
- .auth-links a {
-   color: black;
- }
+.auth-links a {
+  color: black;
+  padding: 20px;
+}
+
+.register-text {
+  text-align: right;
+}
+
+.login > .card {
+  width: 22rem;
+  margin: 0 auto;
+  float: none;
+}
