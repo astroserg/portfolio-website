@@ -24,9 +24,11 @@
 
             <%= @copyright %>
 
+            <%= yield %>
+
             <%= render "shared/application_footer" %>
 
-            <%= yield %>
+            <%= alert_generator alert %>
 
             <%= source_helper("application") %>
         </div>
