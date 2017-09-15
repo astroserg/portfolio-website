@@ -86,3 +86,5 @@ gem 'gritter', '~> 1.2'
 gem 'twitter', '~> 6.1'
 
 gem 'redis', '~> 4.0'
+
+gem 'pry'
