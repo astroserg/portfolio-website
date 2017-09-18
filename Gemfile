@@ -66,25 +66,15 @@ gem 'serg_view_tool', '~> 0.1.1'
 
 #authorizarions gem
 gem 'petergate', '~> 1.7', '>= 1.7.5'
-
 gem 'kaminari', :git => 'https://github.com/kaminari/kaminari.git'
-
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.2'
-
 gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
-
 gem 'carrierwave-aws', '~> 1.2'
-
 gem 'mini_magick', '~> 4.8'
-
 gem 'dotenv-rails', '~> 2.2', '>= 2.2.1'
-
 gem 'cocoon', '~> 1.2', '>= 1.2.10'
-
 gem 'gritter', '~> 1.2'
-
-gem 'twitter', '~> 6.1'
-
 gem 'redis', '~> 4.0'
-
 gem 'pry'
+gem 'redcarpet', '~> 3.4'
+gem 'coderay', '~> 1.1', '>= 1.1.2'
