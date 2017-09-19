@@ -19,7 +19,7 @@ Bundler.require(*Rails.groups)
 
 module DevcampPortfolio
   class Application < Rails::Application
-    config.action_controller
-    permit_all_parameters = true
+    config.action_controller << "#{Rails.root}/lib"
+    config.secret_key_base = ENV["SECRET_KEY_BASE"]
   end
 end
